@@ -1,3 +1,2 @@
-spring:
-	appliaction:
-		name: kai-fa
+server:
+  port: 3355
