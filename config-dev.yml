@@ -1,4 +1,2 @@
-server:
-  port: 3300
 config:
   info: "dev info, version 1"
